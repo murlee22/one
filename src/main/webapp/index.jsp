@@ -1,19 +1,6 @@
-<html>
-<body>
+<body style="background-color:powderblue;">
 
-<p>
-hey myann
-wr uu dude
-</p>
-
-<p>
-im all okie ne
-nuvb bagubte chaku naku
-</p>
-
-<p>
-hey babes wts up...
-</p>
+<h1>This is a webpage</h1>
+<p>This is a swiggy project</p>
 
 </body>
-</html>

@@ -1,6 +1,6 @@
 <body style="background-color:powderblue;">
 
-<h1>This is a webpage</h1>
+<h5>This is a webpage</h5>
 <p>This is a swiggy project</p>
 
 </body>
